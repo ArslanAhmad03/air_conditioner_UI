@@ -1,16 +1,7 @@
 # air_conditioner_ui
+![backM](https://github.com/user-attachments/assets/7e3d31de-b33f-41b4-be3b-a42bfef1fcb1)
+![frontM](https://github.com/user-attachments/assets/1c06474e-c302-4e6d-b5c4-de853ebc21bd)
+![issues](https://github.com/user-attachments/assets/bd2a1280-1476-49b3-95ac-1e8b3a09b41a)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
